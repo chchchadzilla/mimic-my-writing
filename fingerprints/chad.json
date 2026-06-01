@@ -1,0 +1,352 @@
+{
+  "source_files": [
+    "samples/chad/ask-for-the-money.md",
+    "samples/chad/rants.md",
+    "samples/chad/soul.md"
+  ],
+  "char_count": 11674,
+  "sentence_stats": {
+    "sentence_count": 128,
+    "mean_words": 15.63,
+    "stdev_words": 14.81,
+    "burstiness": 0.948,
+    "min_words": 1,
+    "max_words": 90,
+    "fragment_share": 0.305,
+    "long_sentence_share": 0.211
+  },
+  "vocab": {
+    "total_words": 2001,
+    "unique_words": 806,
+    "type_token_ratio": 0.403,
+    "top_content_words": [
+      [
+        "ask",
+        19
+      ],
+      [
+        "it's",
+        15
+      ],
+      [
+        "don't",
+        13
+      ],
+      [
+        "i'm",
+        11
+      ],
+      [
+        "call",
+        10
+      ],
+      [
+        "because",
+        8
+      ],
+      [
+        "every",
+        8
+      ],
+      [
+        "can't",
+        7
+      ],
+      [
+        "close",
+        7
+      ],
+      [
+        "single",
+        7
+      ],
+      [
+        "reps",
+        6
+      ],
+      [
+        "you're",
+        6
+      ],
+      [
+        "think",
+        6
+      ],
+      [
+        "that's",
+        6
+      ],
+      [
+        "chad's",
+        6
+      ],
+      [
+        "i've",
+        5
+      ],
+      [
+        "discovery",
+        5
+      ],
+      [
+        "say",
+        5
+      ],
+      [
+        "good",
+        5
+      ],
+      [
+        "back",
+        5
+      ],
+      [
+        "gave",
+        5
+      ],
+      [
+        "way",
+        5
+      ],
+      [
+        "you'll",
+        5
+      ],
+      [
+        "wrong",
+        5
+      ],
+      [
+        "money",
+        4
+      ],
+      [
+        "sales",
+        4
+      ],
+      [
+        "right",
+        4
+      ],
+      [
+        "three",
+        4
+      ],
+      [
+        "send",
+        4
+      ],
+      [
+        "asking",
+        4
+      ]
+    ],
+    "profanity_hits": 2,
+    "profanity_per_1k_words": 1.0,
+    "ai_filler_hits": 0,
+    "hedge_hits": 1
+  },
+  "punctuation": {
+    "em_dash_per_1k": 2.14,
+    "ellipsis_per_1k": 0.17,
+    "exclaim_per_1k": 0.17,
+    "question_per_1k": 1.71,
+    "semicolon_per_1k": 0.17,
+    "parens_per_1k": 1.03,
+    "caps_words": 32
+  },
+  "contractions_per_1k_words": 53.47,
+  "caps_for_emphasis": [
+    "YOU",
+    "ASK",
+    "MOMENT",
+    "THE",
+    "EVERYTHING",
+    "ENTIRE",
+    "AGREED",
+    "HOW",
+    "NOT",
+    "FUTURE",
+    "TWELVE",
+    "YEARS",
+    "THIS",
+    "TRIED",
+    "ME"
+  ],
+  "top_sentence_openers": [
+    [
+      "the",
+      6
+    ],
+    [
+      "they",
+      5
+    ],
+    [
+      "you",
+      4
+    ],
+    [
+      "this",
+      4
+    ],
+    [
+      "that's",
+      4
+    ],
+    [
+      "it's",
+      4
+    ],
+    [
+      "ask",
+      3
+    ],
+    [
+      "if",
+      3
+    ],
+    [
+      "reps",
+      3
+    ],
+    [
+      "sometimes",
+      3
+    ]
+  ],
+  "signature_bigrams": [
+    [
+      "every single",
+      6
+    ],
+    [
+      "to ask",
+      5
+    ],
+    [
+      "you don't",
+      5
+    ],
+    [
+      "the money",
+      4
+    ],
+    [
+      "the call",
+      4
+    ],
+    [
+      "you can't",
+      4
+    ],
+    [
+      "the prospect",
+      4
+    ],
+    [
+      "it's a",
+      4
+    ],
+    [
+      "sometimes it's",
+      4
+    ],
+    [
+      "ask for",
+      3
+    ],
+    [
+      "ask and",
+      3
+    ],
+    [
+      "asking for",
+      3
+    ],
+    [
+      "don't ask",
+      3
+    ],
+    [
+      "the close",
+      3
+    ],
+    [
+      "the customer",
+      3
+    ]
+  ],
+  "signature_trigrams": [
+    [
+      "ask for the",
+      3
+    ],
+    [
+      "for the money",
+      3
+    ],
+    [
+      "asking for the",
+      3
+    ],
+    [
+      "for the close",
+      3
+    ],
+    [
+      "every single item",
+      3
+    ],
+    [
+      "the money is",
+      2
+    ],
+    [
+      "if you don't",
+      2
+    ],
+    [
+      "you don't ask",
+      2
+    ],
+    [
+      "come to you",
+      2
+    ],
+    [
+      "to ask for",
+      2
+    ],
+    [
+      "gold pass member",
+      2
+    ],
+    [
+      "pass member of",
+      2
+    ],
+    [
+      "you screwed up",
+      2
+    ],
+    [
+      "you gave me",
+      2
+    ],
+    [
+      "you managed to",
+      2
+    ]
+  ],
+  "quirks": [
+    "em-dash equivalent ('--') is a structural device",
+    "uses 'y'all'",
+    "uses spoken contractions: gonna/wanna/gotta",
+    "uses casual address: dude/bro/man",
+    "dash-driven asides instead of parentheticals",
+    "rhetorical questions answered by self",
+    "ALL-CAPS for emphasis (not headings)",
+    "internet shorthand (lol/af/etc)"
+  ]
+}
